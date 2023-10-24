@@ -1,0 +1,24 @@
+FRA_ENG_autonomy_ENG_administration = {
+	color = rgb { 63 73 84 }
+	color_ui = rgb { 63 73 84 }
+}
+USB_ENG_autonomy_ENG_administration = {
+	color = rgb { 67 65 86 }
+	color_ui = rgb { 67 65 86 }
+}
+CAN_ENG_autonomy_ENG_administration = {
+	color = rgb { 84 63 82 }
+	color_ui = rgb { 84 63 82 }
+}
+WGR_ENG_autonomy_ENG_administration = {
+	color = rgb { 84 63 63 }
+	color_ui = rgb { 84 63 63 }
+}
+HOL_ENG_autonomy_ENG_administration = {
+	color = rgb { 84 77 63 }
+	color_ui = rgb { 84 77 63 }
+}
+AST_ENG_autonomy_ENG_administration = {
+	color = rgb { 67 84 63 }
+	color_ui = rgb { 67 84 63 }
+}

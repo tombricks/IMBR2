@@ -1,0 +1,8 @@
+anglophone_tag = {
+    OR = {
+        original_tag = ENG
+        original_tag = CAN
+        original_tag = USB
+        original_tag = AST
+    }
+}

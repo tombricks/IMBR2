@@ -1,0 +1,13 @@
+capital = 64
+
+set_politics = {
+	ruling_party = fascism
+	last_election = "1960.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	neutrality = 50
+	fascism = 50
+}

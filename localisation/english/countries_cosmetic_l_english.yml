@@ -1,0 +1,5 @@
+﻿l_english:
+ MON_CHI_autonomy_territory: "Outer Mongol Area"
+ MON_CHI_autonomy_territory_DEF: "Outer Mongol Area"
+ COUNTRY_CHI_autonomy_territory: "$NONIDEOLOGYADJ$ Area"
+ COUNTRY_CHI_autonomy_territory_DEF: "the $NONIDEOLOGYADJ$ Area"

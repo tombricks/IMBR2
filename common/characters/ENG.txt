@@ -1,0 +1,19 @@
+characters={
+	ENG_oswald_mosley={
+		name=ENG_oswald_mosley
+		portraits={
+			civilian={
+				large=GFX_portrait_ENG_oswald_mosley
+			}
+			army={
+				small="GFX_idea_ENG_oswald_mosley"
+			}
+		}
+		country_leader={
+			ideology=british_fascism
+			traits={ dictator }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

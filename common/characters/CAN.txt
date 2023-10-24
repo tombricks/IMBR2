@@ -1,0 +1,11 @@
+characters = {
+	CAN_chuck_crate = {
+		name = "Charles Crate"
+		country_leader = {
+			ideology = british_fascism
+			traits = { }
+			expire = "1965.1.1.1"
+			id = -1
+		}
+	}
+}

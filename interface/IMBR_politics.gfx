@@ -1,0 +1,14 @@
+spriteTypes = {
+    spriteType = {
+        name = "GFX_ideology_british_fascism"
+        textureFile = "gfx/interface/ideologies/british_fascism.dds"
+    }
+    spriteType = {
+		name = "GFX_autonomy_territory"
+		textureFile = "gfx/interface/autonomy/autonomy_territory.dds"
+	}
+    spriteType = {
+		name = "GFX_autonomy_ENG_administration"
+		textureFile = "gfx/interface/autonomy/autonomy_ENG_administration.dds"
+	}
+}

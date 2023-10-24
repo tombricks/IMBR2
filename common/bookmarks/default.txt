@@ -1,0 +1,38 @@
+bookmarks = {
+	bookmark = {
+		name = "DEFAULT_NAME"
+		desc = "DEFAULT_DESC"
+		date = 1962.1.1.12
+		picture = "GFX_select_date_1939"
+		default_country = "ENG"
+	
+		ENG = {
+			history = ENG_DEFAULT_DESC
+			ideology = fascism
+		}
+	
+		ITA = {
+			history = ENG_DEFAULT_DESC
+			ideology = fascism
+		}
+	
+		CHI = {
+			history = ENG_DEFAULT_DESC
+			ideology = fascism
+		}
+	
+		SOV = {
+			history = ENG_DEFAULT_DESC
+			ideology = communism
+		}
+		
+		"---"={
+			history = "OTHER_DEFAULT_DESC"
+		}
+
+		effect = {
+			randomize_weather = 12346 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

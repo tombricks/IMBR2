@@ -1,0 +1,14 @@
+﻿l_english:
+ ENG: "Britain"
+ ENG_DEF: "Britain"
+ ENG_ADJ: "British"
+ ENG_fascism: "Greater Britannic Commonwealth"
+ ENG_fascism_DEF: "the Greater Britannic Commonwealth"
+ ENG_fascism_ADJ: "British"
+ ENG_fascism_party: "BUF"
+ ENG_fascism_party_long: "British Union of Fascists"
+
+ autonomy_ENG_administration: "Commonwealth Administration"
+ COUNTRY_ENG_autonomy_ENG_administration: "Commonwealth Administration in $NONIDEOLOGYDEF$"
+ COUNTRY_ENG_autonomy_ENG_administration_DEF: "the Territory of the Commonwealth Civil Administrator for $NONIDEOLOGYDEF$"
+ COUNTRY_ENG_autonomy_ENG_administration_ADJ: "Anglo-$NONIDEOLOGYADJ$"
