@@ -4,14 +4,9 @@ ideologies = {
 
 		types = {
 
-			conservatism = {
+			democratic_type = {
 			}
 
-			liberalism = {
-			}
-
-			socialism = {
-			}
 		}
 
 		dynamic_faction_names = {
@@ -68,20 +63,9 @@ ideologies = {
 
 		types = {
 
-			marxism = {
+			communism_type = {
 			}
-
-			leninism = {
-			}
-
-			stalinism = {
-			}
-
-			anti_revisionism = {
-			}
-
-			anarchist_communism = {
-			}
+			
 		}
 
 		dynamic_faction_names = {
@@ -128,22 +112,10 @@ ideologies = {
 	fascism = {
 
 		types = {
-			british_fascism = {
+			fascism_type = {
 			}
 
-			nazism = {
-			}
-
-			gen_nazism = {
-			}
-
-			fascism_ideology = {
-			}
-
-			falangism = {
-			}
-
-			rexism = {
+			british_fascism_type = {
 			}
 		}
 
@@ -186,21 +158,7 @@ ideologies = {
 	neutrality = {
 
 		types = {
-
-			despotism  = {
-			}
-
-			oligarchism  = {
-			}
-
-			anarchism = {
-				can_be_randomly_selected = no # won't be assigned to randomly generated country leaders
-			}
-
-			moderatism = {
-			}
-
-			centrism = {
+			neutrality_type = {
 			}
 		}
 

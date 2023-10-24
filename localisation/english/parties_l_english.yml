@@ -1,0 +1,26 @@
+﻿l_english:
+ communism: "Communist"
+ communism_noun: "Communism"
+ communism_desc: "Authoritarian Regime"
+ communism_type: "Communism"
+ communism_type_desc: ""
+
+ democratic: "Democratic"
+ democratic_noun: "Democracy"
+ democratic_desc: "Democratic Regime"
+ democratic_type: "Democracy"
+ democratic_type_desc: ""
+
+ fascism: "Fascist"
+ fascism_noun: "Fascism"
+ fascism_desc: "Authoritarian Regime"
+ fascism_type: "Fascism"
+ fascism_type_desc: ""
+ british_fascism_type: "Britannic Fascism"
+ british_fascism_type_desc: ""
+
+ neutrality: "Authoritarian"
+ neutrality_noun: "Authoritarianism"
+ neutrality_desc: "Authoritarian Regime"
+ neutrality_type: "Authoritarianism"
+ neutrality_type_desc: ""

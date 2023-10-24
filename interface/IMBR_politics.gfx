@@ -1,6 +1,6 @@
 spriteTypes = {
     spriteType = {
-        name = "GFX_ideology_british_fascism"
+        name = "GFX_ideology_british_fascism_type"
         textureFile = "gfx/interface/ideologies/british_fascism.dds"
     }
     spriteType = {
