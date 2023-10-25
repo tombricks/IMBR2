@@ -1,6 +1,11 @@
 characters = {
 	CAN_chuck_crate = {
 		name = "Charles Crate"
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_ENG_Emblem
+			}
+		}
 		country_leader = {
 			ideology = british_fascism_type
 			traits = { }

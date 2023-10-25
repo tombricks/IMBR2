@@ -8,6 +8,8 @@
  ENG_fascism_party: "BUF"
  ENG_fascism_party_long: "British Union of Fascists"
 
+ leader_title_ENG_minister: "Leading Minister"
+
  autonomy_ENG_administration: "Commonwealth Administration"
  COUNTRY_ENG_autonomy_ENG_administration: "Commonwealth Administration in $NONIDEOLOGYDEF$"
  COUNTRY_ENG_autonomy_ENG_administration_DEF: "the Territory of the Commonwealth Civil Administrator for $NONIDEOLOGYDEF$"

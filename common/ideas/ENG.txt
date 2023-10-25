@@ -1,0 +1,7 @@
+ideas = {
+	country = {
+		ENG_edward_viii = {
+			
+		}
+	}
+}

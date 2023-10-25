@@ -1,0 +1,4 @@
+leader_traits = {
+	leader_title_ENG_minister = { random = no }
+	leader_title_leader = { random = no }
+}

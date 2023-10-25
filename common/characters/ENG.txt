@@ -1,19 +1,16 @@
-characters={
-	ENG_oswald_mosley={
-		name=ENG_oswald_mosley
-		portraits={
-			civilian={
-				large=GFX_portrait_ENG_oswald_mosley
-			}
-			army={
-				small="GFX_idea_ENG_oswald_mosley"
+characters = {
+	ENG_oswald_mosley = {
+		name = "Oswald Mosley"
+		portraits = {
+			civilian = {
+				large = GFX_Portrait_ENG_Oswald_Mosley
 			}
 		}
-		country_leader={
-			ideology=british_fascism_type
-			traits={ dictator }
-			expire="1965.1.1.1"
-			id=-1
+		country_leader = {
+			ideology = british_fascism_type
+			traits = { leader_title_ENG_minister }
+			expire = "1965.1.1.1"
+			id = -1
 		}
 	}
 }

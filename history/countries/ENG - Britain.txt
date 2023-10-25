@@ -15,6 +15,7 @@ set_popularities = {
 	communism = 1
 }
 
+add_ideas = ENG_edward_viii
 
 create_faction = "London System"
 add_to_faction = ENG
@@ -25,6 +26,12 @@ set_autonomy = { target = USB autonomous_state = autonomy_ENG_administration }
 set_autonomy = { target = CAN autonomous_state = autonomy_ENG_administration }
 set_autonomy = { target = AST autonomous_state = autonomy_ENG_administration }
 set_autonomy = { target = RAJ autonomous_state = autonomy_ENG_administration }
+every_other_country = {
+	limit = {
+		has_autonomy_state = autonomy_ENG_administration
+	}
+	add_ideas = ENG_edward_viii
+}
 add_to_faction = GER
 
 recruit_character = ENG_oswald_mosley

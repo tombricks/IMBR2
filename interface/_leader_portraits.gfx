@@ -1,0 +1,32 @@
+spriteTypes = {
+    spriteType = {
+		name = "GFX_portrait_operative_unknown"
+		texturefile = "gfx/leaders/operative_unknown.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_unknown"
+		texturefile = "gfx/leaders/leader_unknown.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_unknown_female"
+		texturefile = "gfx/leaders/leader_unknown_female.dds"
+	}
+
+    ### Portraits
+    spriteType = {
+        name = "GFX_Portrait_ENG_Oswald_Mosley"
+        textureFile = "gfx/leaders/ENG/Oswald_Mosley.dds"
+    }
+    spriteType = {
+        name = "GFX_Portrait_ENG_Edward_VIII"
+        textureFile = "gfx/leaders/ENG/Edward_VIII.dds"
+    }
+    spriteType = {
+        name = "GFX_idea_ENG_edward_viii"
+        textureFile = "gfx/interface/ideas/ENG_edward_viii.dds"
+    }
+    spriteType = {
+        name = "GFX_Portrait_ENG_Emblem"
+        textureFile = "gfx/leaders/ENG/Emblem.dds"
+    }
+}

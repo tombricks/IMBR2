@@ -1,0 +1,19 @@
+defined_text = {
+	name = GetLeaderTitle
+	text = { trigger = { has_country_leader_with_trait = leader_title_ENG_minister } localization_key = leader_title_ENG_minister }
+	text = { trigger = { has_country_leader_with_trait = leader_title_leader } localization_key = leader_title_leader }
+	text = { localization_key = leader_title_leader }
+}
+
+defined_text = {
+	name = GetSubideologyLoc
+	text = { trigger = { has_country_leader_ideology = fascism_type } localization_key = fascism_type }
+	text = { trigger = { has_country_leader_ideology = british_fascism_type } localization_key = british_fascism_type }
+	text = { trigger = { has_government = fascism } localization_key = fascism }
+	text = { trigger = { has_country_leader_ideology = democratic_type } localization_key = democratic_type }
+	text = { trigger = { has_government = democratic } localization_key = democratic }
+	text = { trigger = { has_country_leader_ideology = communism_type } localization_key = communism_type }
+	text = { trigger = { has_government = communism } localization_key = communism }
+	text = { trigger = { has_country_leader_ideology = neutrality_type } localization_key = neutrality_type }
+	text = { trigger = { has_government = neutrality } localization_key = neutrality }
+}
